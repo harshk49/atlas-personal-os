@@ -1,0 +1,8 @@
+node_modules
+dist
+build
+target
+.vscode
+.env
+.env.*
+.DS_Store
