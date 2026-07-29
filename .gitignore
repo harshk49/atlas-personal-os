@@ -1,9 +1,24 @@
+# Dependencies
 node_modules
+
+#Build
 dist
 build
+coverage
+
+#Turbo
+.turbo
+
+#Rust
 target
+
+#IDE
 .vscode
+
+#Environment
 .env
 .env.*
+
+#OS
 .DS_Store
 PACKAGES.md
